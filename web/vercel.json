@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(api|auth|sessions|responses|timeline|passport|rewrite|prompts|health)(.*)",
+      "destination": "https://your-backend-url.com/$1$2"
+    },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
