@@ -14,9 +14,9 @@ UdaanCoach is an AI-powered soft skill, communication, and career growth platfor
 
 ## 🛠️ Tech Stack
 
-*   **Backend:** FastAPI, SQLAlchemy, PostgreSQL, Alembic, Google Gemini API, HuggingFace Transformers.
-*   **Frontend:** React (Vite), Tailwind CSS, Framer Motion, Recharts, i18next.
-*   **DevOps:** Docker, Docker Compose, GitHub Actions.
+*   **Backend:** FastAPI, SQLAlchemy, PostgreSQL, Alembic, Google Gemini API, HuggingFace Transformers
+*   **Frontend:** React (Vite), Tailwind CSS, Framer Motion, Recharts, i18next
+*   **DevOps:** Docker, Docker Compose, GitHub Actions
 
 ## 🚦 Getting Started
 
